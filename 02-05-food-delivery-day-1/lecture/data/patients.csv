@@ -1,0 +1,16 @@
+id,name,cured,room_id
+1,Esh,false,3
+2,Jamie,true,3
+3,Mathis,true,2
+4,Alban,false,3
+5,Norman,true,2
+6,Ayanthi,true,5
+7,Monica,false,1
+8,Sammy,false,2
+9,Luca,false,1
+10,Ben,true,1
+11,Bennet,true,4
+12,Manon,true,2
+13,Anais,true,2
+14,Paal,false,2
+15,Sonic,false,3
